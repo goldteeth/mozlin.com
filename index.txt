@@ -198,6 +198,44 @@ history:
 - 12/4/2014: C2
 - 12/5/2014: C3
 
+http://hbpms.blogspot.com/
+Stage 1 
+Elementary Stuff
+Introductory Discrete Mathematics
+Introductory Algebra
+Introductory Calculus
+Stage 2
+Linear Algebra
+Introductory Higher Algebra
+Calculus (Introductory Real Analysis, Several Variables Calculus, Vector Calculus, etc)
+Complex Variables (Introductory Complex Analysis)
+Differential Equation
+Probability and Statistics 
+Stage 3 
+Introductory Analysis
+Abstract Algebra
+Introductory Number Theory
+Introductory Topology
+Differential Geometry
+Mathematical Modelling (optional)
+Statistical Inference (optional)
+Probability and Stochastic Processes (optional)
+Statistical Computing (optional) 
+Stage 4 
+Foundations and Discrete Mathematics
+Foundation, Logic, Set Theory, etc, Graph Theory, Combinatorics, Cryptography, Coding and Information Theory.
+Analysis Functional Analysis, Measure Theory, Hilbert Spaces, Real and Complex Analysis, Fourier and Harmonic Analysis.
+Algebra Advanced Linear Algebra, Groups and Lie Algebras, Rings, Fields and Galois Theory, Modules and Representation Theory, Commutative Algebra, Homological Algebra and Category.
+Number Theory Algebraic NT, Class Field Theory, Analytic NT, Riemann Zeta Function and the Hypothesis, Modular Forms, Elliptic Curves, etc.
+Geometry Algebraic Geometry, Differential Geometry, Riemannian Geometry, Fractals.
+Topology Geometric Topology, Algebraic Topology, K-theory, Differential Topology.
+Further Calculus (optional) Ordinary DE, Partial DE, Calculus of Variations.
+Mathematical Physics (optional) Mathematical methods in physics, Relativity, Quantum Mechanics, Quantum Field Theory, String Theory, Chaos.
+Probability (optional) Probaility built upon Measure Theory, Stochastic Processes, Stochastic Analysis.
+Statistics (optional) Statistical Models and Regression, Multivariate Analysis, Bayesian Statistics, Simulation and the Monte Carlo Method, Nonparametric Statistics, Categorical Data Analysis, Data Mining, Time Series.
+Biostatistics (optional) Statistical Methods in Epidemiology, Design and Analysis of Clinical Trials, Longitudinal Data Analysis, Survival Analysis.
+
+http://www.staff.science.uu.nl/~Gadda001/goodtheorist/index.html
 
 
 __________________________________________________________________________________
