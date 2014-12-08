@@ -1,0 +1,14 @@
+[23:18:17]  <@map>   the key tho for the wave is that everything feeds off each other.. i mean you can do it with topics that are unrelated but to me it's more of a 'sorting algorithm'
+[23:18:20]  <@map>   basically
+[23:18:36]  <@map>   you have all of this material (the math topics), and, your 'comparison' or 'order' is stuff you know or can learn
+[23:18:39]  <@map>   so
+[23:18:47]  <@map>   you just keep going through all of the topics, 'sorting' by what you are learning/know
+[23:18:55]  <@map>   and you just keep making passes on it
+
+
+[23:19:56]  <@map>   human memoization
+[23:20:16]  <@map>   if we don't retain or build an intuition for something, then we are just less efficient in general
+[23:20:24]  <@map>   and it may take us double or worse, the time to do something
+[23:20:45]  <@map>   so finding ways to truly retain/build intuition is just like memoization/dynamic programming
+
+[23:21:06]  <@map>   THE KNOWLEDGE ALGORITHM
