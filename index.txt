@@ -2,23 +2,27 @@ Daniel Mozlin
 dmozlin@gmail.com
 @dannymozlin
 
-Ppl who've directly inspired me:
-Karan Kapur
-Simon Jacobs
-Dino Gidwani
-Matt Wetty
-Jan Verleur
-Bob Wilson
-Andrew Darqui
-
-Reading List / Learning Pattern 
+Math Refresher: Current Reading List
+(learning methodology / pattern below) 
 ___________________________________________________________________________________________________________________________________________________________________________
 Math Wave
+
+An Eternal Golden Braid
+- source: http://www.physixfan.com/wp-content/files/GEBen.pdf
+- history:
 
 Logic
 - source: http://emilkirkegaard.dk/en/wp-content/uploads/Paul-Tomassi-Logic.pdf
 - haskell: http://hackage.haskell.org/package/hatt
 - sagemath: http://www.sagemath.org/pdf/en/reference/logic/logic.pdf , http://www.sagemath.org/doc/reference/logic/sage/logic/propcalc.html
+- history:
+- 12/8/2014 C1
+
+
+Combinatorics
+- source: http://people.math.gatech.edu/~trotter/book.pdf
+- haskell: https://hackage.haskell.org/package/combinat , haskell: https://hackage.haskell.org/package/arithmoi
+- sage: http://www.math.washington.edu/~billey/colombia/sage.code/Algebraic%20Combinatorics%20Tutorial.pdf , http://www.sagemath.org/doc/reference/combinat/
 - history:
 
 
@@ -31,11 +35,6 @@ Conceptual Mathematics: A first introduction to Categories
 - source: http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf
 - haskell: http://hackage.haskell.org/package/base-4.7.0.1/docs/Control-Category.html , https://hackage.haskell.org/package/categories , http://hackage.haskell.org/package/data-category-0.5.1.1/docs/Data-Category.html
 - sage: http://www.sagemath.org/pdf/en/reference/categories/categories.pdf , http://www.sagemath.org/doc/reference/categories/
-- history:
-
-
-Mathematics For Computer Science
-- source: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010/readings/MIT6_042JS10_notes.pdf
 - history:
 
 
@@ -69,6 +68,11 @@ Intro to Abstract Algebra
 - source: http://www.math.umn.edu/~garrett/m/intro_algebra/notes.pdf
 - haskell: https://hackage.haskell.org/package/algebra
 - sage: http://abstract.ups.edu/download/aata-20111223-sage-4.8.pdf , http://www.sagemath.org/doc/prep/Quickstarts/Abstract-Algebra.html
+- history:
+
+
+Mathematics For Computer Science
+- source: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010/readings/MIT6_042JS10_notes.pdf
 - history:
 
 
@@ -137,17 +141,6 @@ An Introduction to Statistics
 - sage: http://www.sagemath.org/doc/reference/stats/index.html
 - History:
 
-
-Combinatorics
-- source: http://people.math.gatech.edu/~trotter/book.pdf
-- haskell: https://hackage.haskell.org/package/combinat , haskell: https://hackage.haskell.org/package/arithmoi
-- sage: http://www.math.washington.edu/~billey/colombia/sage.code/Algebraic%20Combinatorics%20Tutorial.pdf , http://www.sagemath.org/doc/reference/combinat/
-- history:
-
-
-An Eternal Golden Braid
-- source: http://www.physixfan.com/wp-content/files/GEBen.pdf
-
 ************************************************************
 
 Algorithms Wave
@@ -182,7 +175,7 @@ An Introduction to Mathematical Cryptography
 The Art of Software Security Assessment
 - https://leaksource.files.wordpress.com/2014/08/the-art-of-software-security-assessment.pdf
 
-The Browser Hacker’s Handbook
+The Browser Hackers Handbook
 
 **********************************************************
 
@@ -200,44 +193,12 @@ history:
 - 12/4/2014: C2
 - 12/5/2014: C3
 
+More to sort:
 http://hbpms.blogspot.com/
-Stage 1 
-Elementary Stuff
-Introductory Discrete Mathematics
-Introductory Algebra
-Introductory Calculus
-Stage 2
-Linear Algebra
-Introductory Higher Algebra
-Calculus (Introductory Real Analysis, Several Variables Calculus, Vector Calculus, etc)
-Complex Variables (Introductory Complex Analysis)
-Differential Equation
-Probability and Statistics 
-Stage 3 
-Introductory Analysis
-Abstract Algebra
-Introductory Number Theory
-Introductory Topology
-Differential Geometry
-Mathematical Modelling (optional)
-Statistical Inference (optional)
-Probability and Stochastic Processes (optional)
-Statistical Computing (optional) 
-Stage 4 
-Foundations and Discrete Mathematics
-Foundation, Logic, Set Theory, etc, Graph Theory, Combinatorics, Cryptography, Coding and Information Theory.
-Analysis Functional Analysis, Measure Theory, Hilbert Spaces, Real and Complex Analysis, Fourier and Harmonic Analysis.
-Algebra Advanced Linear Algebra, Groups and Lie Algebras, Rings, Fields and Galois Theory, Modules and Representation Theory, Commutative Algebra, Homological Algebra and Category.
-Number Theory Algebraic NT, Class Field Theory, Analytic NT, Riemann Zeta Function and the Hypothesis, Modular Forms, Elliptic Curves, etc.
-Geometry Algebraic Geometry, Differential Geometry, Riemannian Geometry, Fractals.
-Topology Geometric Topology, Algebraic Topology, K-theory, Differential Topology.
-Further Calculus (optional) Ordinary DE, Partial DE, Calculus of Variations.
-Mathematical Physics (optional) Mathematical methods in physics, Relativity, Quantum Mechanics, Quantum Field Theory, String Theory, Chaos.
-Probability (optional) Probaility built upon Measure Theory, Stochastic Processes, Stochastic Analysis.
-Statistics (optional) Statistical Models and Regression, Multivariate Analysis, Bayesian Statistics, Simulation and the Monte Carlo Method, Nonparametric Statistics, Categorical Data Analysis, Data Mining, Time Series.
-Biostatistics (optional) Statistical Methods in Epidemiology, Design and Analysis of Clinical Trials, Longitudinal Data Analysis, Survival Analysis.
-
 http://www.staff.science.uu.nl/~Gadda001/goodtheorist/index.html
+
+Game Theory - Cambridge University Press
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=http%3A%2F%2Fwww.cambridge.org%2Fjournals%2Fnisan%2Fdownloads%2FNisan_Non-printable.pdf&ei=JQuPVJKCIcG1sQSgroCgAg&usg=AFQjCNGcYWvHGjECHZGGUuCMaENGCP2HYw&sig2=S4wWZBu3wyD16d8lwyHIwA
 
 
 __________________________________________________________________________________
@@ -258,3 +219,13 @@ Learning methodology:
 [23:20:45]  <@map>   so finding ways to truly retain/build intuition is just like memoization/dynamic programming
 
 [23:21:06]  <@map>   THE KNOWLEDGE ALGORITHM
+
+*****************************************
+People who've made an impact in my life:
+Simon Jacobs
+Dino Gidwani
+Matt Wetty
+Karan Kapur
+Jan Verleur
+Bob Wilson
+map
