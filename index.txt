@@ -141,6 +141,19 @@ An Introduction to Statistics
 - sage: http://www.sagemath.org/doc/reference/stats/index.html
 - History:
 
+Combinatorics
+- source: http://people.math.gatech.edu/~trotter/book.pdf
+- haskell: https://hackage.haskell.org/package/combinat , haskell: https://hackage.haskell.org/package/arithmoi
+- sage: http://www.math.washington.edu/~billey/colombia/sage.code/Algebraic%20Combinatorics%20Tutorial.pdf , http://www.sagemath.org/doc/reference/combinat/
+- history:
+
+
+An Eternal Golden Braid
+- source: http://www.physixfan.com/wp-content/files/GEBen.pdf
+
+An Episodic History of Mathematics
+-source: http://www.math.wustl.edu/~sk/books/newhist.pdf
+
 ************************************************************
 
 Algorithms Wave
