@@ -154,6 +154,9 @@ An Eternal Golden Braid
 An Episodic History of Mathematics
 -source: http://www.math.wustl.edu/~sk/books/newhist.pdf
 
+A Journey through Genius: The Great Theorems of Mathematics
+-source: http://www.ms.uky.edu/~sohum/ma330/files/william-dunham-journey-through-genius-the-great-theorems-of-mathematics-penguin-non-classics1991014014739x.pdf
+
 ************************************************************
 
 Algorithms Wave
